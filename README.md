@@ -9,10 +9,13 @@ and our wiki, at:
 
    https://cwiki.apache.org/confluence/display/ZOOKEEPER
 
-Full documentation for this release can also be found in docs/index.html
+---------------------------
+## Documentation
+
+The ZooKeeper documentation is included here with the ZooKeeper source code. See the README under src/docs directory for more details. You can also find documentation specific to release versions of ZooKeeper at http://zookeeper.apache.org/documentation.html.
 
 ---------------------------
-Packaging/release artifacts
+## Packaging/release artifacts
 
 The release artifact contains the following jar file at the top level:
 

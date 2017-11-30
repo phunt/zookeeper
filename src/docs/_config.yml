@@ -1,0 +1,11 @@
+title: Apache ZooKeeper Documentation
+url: "https://zookeeper.apache.org"
+
+highlighter: pygments
+markdown: kramdown
+kramdown:
+  entity_output: symbol
+permalink: none
+
+exclude:
+    - README.md
